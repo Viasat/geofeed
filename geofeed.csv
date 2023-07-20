@@ -71,6 +71,7 @@
 37.19.103.0/24,IE,,Dublin,
 37.203.192.0/22,GB,,Farnborough,
 37.252.111.0/24,DE,,Frankfurt am Main,
+37.252.200.0/24,FR,,Paris,
 37.252.202.0/27,FR,,Paris,
 37.252.202.32/27,GR,,Athina,
 37.252.202.64/27,IE,,Dublin,
@@ -471,4 +472,3 @@
 99.198.80.0/22,BR,,Brasilia,
 99.198.84.0/22,BR,,Brasilia,
 99.198.95.0/24,BR,,Brasilia,
-213.209.181.0/26,NL,,Amsterdam,
