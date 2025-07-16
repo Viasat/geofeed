@@ -1,8 +1,6 @@
 # prefix/ip,country_code,region_code,city,postal
 5.8.184.0/24,ES,,Madrid,
 5.8.185.0/24,ES,,Madrid,
-5.8.186.0/24,ES,,Madrid,
-5.8.187.0/24,ES,,Madrid,
 5.8.189.0/26,IT,,Torino,
 5.8.189.64/27,IT,,Torino,
 5.8.189.96/28,IT,,Torino,
@@ -14,7 +12,6 @@
 37.1.161.128/25,DE,,Frankfurt am Main,
 37.1.162.0/24,IT,,Torino,
 37.1.163.0/26,GB,,Farnborough,
-37.1.163.64/26,FR,,Paris,
 37.1.163.128/25,MA,,Marrakech,
 37.1.164.0/25,IT,,Torino,
 37.1.164.128/26,IT,,Torino,
